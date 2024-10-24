@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hasan!
 
-### 🚀 Full Stack Python Web Developer | 🎓 AI Engineering Senior Student
+### 🚀 Aspiring Full Stack Python Web Developer | 🎓 AI Engineering Senior Student
 
-I’m a passionate developer focused on building efficient and scalable web solutions using Python and modern web technologies. As a full stack web developer, I’ve worked on several projects, from backend architecture to creating dynamic front-end experiences. Currently, I'm finishing my AI Engineering degree, and my interest lies at the intersection of AI and web development.
+I’m a passionate developer focused on building efficient and scalable web solutions using Python and modern web technologies. As a full-stack web developer, I like to work on several projects, from backend architecture to creating dynamic front-end experiences. Currently, I'm finishing my AI Engineering degree, and my interest lies at the intersection of AI and web development.
 
 ---
 
