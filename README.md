@@ -40,15 +40,10 @@ I’m a passionate developer focused on building efficient and scalable web solu
 ### 🎯 **Skills**
 - Full Stack Web Development
 - Python & Django
-- AI and Machine Learning
+- Machine Learning Models Deployment
 - Frontend Development (ReactJS, HTML5, CSS3, JavaScript)
 - Database Management (PostgreSQL)
 - Version Control (Git & GitHub)
-
----
-
-### 🌟 **Featured Project: Soilitical**
-An AI-based service to assist landowners in determining the best crops to grow based on environmental and economic factors. [Check out the project here](#).
 
 ---
 
