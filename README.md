@@ -32,15 +32,9 @@ I’m a passionate developer focused on building efficient and scalable web solu
 
 ---
 
-### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
-
 ### 📫 **How to reach me**
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
+- **Email**: hasanabdelhady101@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/hasan-abdelhady/
 ---
 
 ### 🎯 **Skills**
