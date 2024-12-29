@@ -7,9 +7,8 @@ I’m a passionate developer focused on building efficient and scalable web solu
 ---
 
 ### 🌱 **What I'm working on**
-- **Soilitical**: An AI-based service to help landowners determine which crops to grow for optimal yields and sustainability.
-- Developing and maintaining the website for **Carbonless** as their main web developer.
-- Developing and maintaining the website for **VerTechX** as their main web developer
+- **Soilitical**: An AI-based service to help landowners determine which crops to grow for optimal yields and sustainability. Live Demo: https://soilitical.netlify.app/
+- Developing and maintaining the website for **Carbonless** as their main web developer. Live Demo: carbonless-eg.com
 
 ---
 
