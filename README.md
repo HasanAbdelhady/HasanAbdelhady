@@ -38,10 +38,8 @@ I’m a passionate developer focused on building efficient and scalable web solu
 ---
 
 ### 🎯 **Skills**
-- Full Stack Web Development
-- Python & Django
+- Full Stack Web Development Using Django & ReactJs
 - Machine Learning Models Deployment
-- Frontend Development (ReactJS, HTML5, CSS3, JavaScript)
 - Database Management (PostgreSQL)
 - Version Control (Git & GitHub)
 
