@@ -49,11 +49,11 @@ I’m a passionate developer focused on building efficient and scalable web solu
 
 ### 🔥 **GitHub Status**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanabdelhady101&show_icons=true&hide_border=true)](https://github.com/hasanabdelhady101)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanAbdelhady&show_icons=true&hide_border=true)](https://github.com/HasanAbdelhady)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanabdelhady101&hide_border=true&theme=radical)](https://github.com/hasanabdelhady101)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanAbdelhady&hide_border=true&theme=radical)](https://github.com/HasanAbdelhady)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanabdelhady101&layout=compact&hide_border=true)](https://github.com/hasanabdelhady101)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAbdelhady&layout=compact&hide_border=true)](https://github.com/HasanAbdelhady)
 
 ---
 
