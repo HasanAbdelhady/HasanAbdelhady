@@ -9,7 +9,7 @@ I’m a passionate developer focused on building efficient and scalable web solu
 
 ### 🌱 **What I'm working on**
 - **Soilitical**: An AI-based service to help landowners determine which crops to grow for optimal yields and sustainability. Live Demo: [soilitical.netlify.app](https://soilitical.netlify.app/)
-- Developing and maintaining the website for **Carbonless** as their main web developer. Live On: [carbonless-eg.com](https://carbonless-eg.com/)
+- Developing and maintaining **Carbonless** as their main software engineer. Live On: [carbonless-eg.com](https://carbonless-eg.com/)
 
 ---
 
