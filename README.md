@@ -24,6 +24,7 @@ I’m a passionate developer focused on building efficient and scalable web solu
 **Backend:**  
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/) 
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/) 
+[![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/docs.html)
 
