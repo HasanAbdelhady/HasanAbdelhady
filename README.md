@@ -33,14 +33,10 @@ I’m a passionate developer focused on building efficient and scalable web solu
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html) 
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
 
-**API Testing & Development:**  
+**More Tools:**  
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://learning.postman.com/docs/)
-
-**Version Control & Collaboration:**  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/)
-
-**Operating System & Environment:**  
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/tutorials)
 
 ---
