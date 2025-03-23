@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Software Engineer | 🎓 AI Engineering Senior Student
 
-I’m a passionate developer focused on building efficient and scalable web solutions using Python and modern web technologies. As a full-stack web developer, I like to work on intriguing projects—from backend architecture to creating dynamic front-end experiences. Currently, I'm finishing my AI Engineering degree, and my interest lies at the intersection of AI and web development.
+I like building efficient and scalable web solutions using Python and modern web technologies. I've worked on the full-stack of many projects—from backend architecture to creating dynamic front-end experiences. Currently, I'm finishing my AI Engineering degree, and my interest lies at the intersection of AI and web development.
 
 ### I'm currently interested in AI Research, so feel free to reach out about possible research opportunities.
 ---
@@ -45,14 +45,6 @@ I’m a passionate developer focused on building efficient and scalable web solu
 ### 📫 **How to reach me**
 - **Email:** hasanabdelhady101@gmail.com
 - **LinkedIn:** [linkedin.com/in/hasan-abdelhady/](https://www.linkedin.com/in/hasan-abdelhady/)
-
----
-
-### 🎯 **Skills**
-- Full Stack Web Development Using Django & ReactJs
-- Machine Learning Models Deployment
-- Database Management (PostgreSQL)
-- Version Control (Git & GitHub)
 
 ---
 
