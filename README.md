@@ -4,7 +4,7 @@
 
 I like building efficient and scalable web solutions using Python and modern web technologies. I've worked on the full-stack of many projects—from backend architecture to creating dynamic front-end experiences. Currently, I'm finishing my AI Engineering degree, and my interest lies at the intersection of AI and web development.
 
-### I'm currently interested in AI Research, so feel free to reach out about possible research opportunities.
+### I'm currently interested in AI Research, so feel free to reach out about possible research collaborations.
 ---
 
 ### 🌱 **What I'm working on**
