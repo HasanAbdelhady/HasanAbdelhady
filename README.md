@@ -52,8 +52,8 @@ I like building efficient and scalable web solutions using Python and modern web
 
 ## GitHub Overview
 
-<a href="https://github.com/YourUsername?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=github_dark" width="100%" />
+<a href="https://github.com/HasanAbdelhady?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="100%" />
 </a>
 
 <br/>
@@ -61,10 +61,10 @@ I like building efficient and scalable web solutions using Python and modern web
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUsername&theme=github_dark" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAbdelhady&theme=github_dark" width="100%" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourUsername&theme=github_dark" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAbdelhady&theme=github_dark" width="100%" />
     </td>
   </tr>
 </table>
@@ -74,10 +74,10 @@ I like building efficient and scalable web solutions using Python and modern web
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourUsername&theme=github_dark" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark" width="100%" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YourUsername&theme=github_dark&utcOffset=2" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=2" width="100%" />
     </td>
   </tr>
 </table>
