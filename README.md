@@ -51,16 +51,15 @@ I like building efficient and scalable web solutions using Python and modern web
 ### 🔥 **GitHub Status**
 
 ## GitHub Overview
-
-| <a href="https://github.com/HasanAbdelhady?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="100%" /></a>
-
-<br/>
-
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAbdelhady&theme=github_dark" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAbdelhady&theme=github_dark" width="100%" /> |
+<a href="https://github.com/HasanAbdelhady?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="50%" /></a>
 
 <br/>
 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=0" width="100%" /> |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAbdelhady&theme=github_dark" width="50%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAbdelhady&theme=github_dark" width="50%" /> |
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark" width="50%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=0" width="50%" /> |
 
 ---
 
