@@ -50,19 +50,36 @@ I like building efficient and scalable web solutions using Python and modern web
 
 ### 🔥 **GitHub Status**
 
-<a href="https://github.com/HasanAbdelhady?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="100%" /></a>
-| :--: |
+## GitHub Overview
+
+<a href="https://github.com/YourUsername?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=github_dark" width="100%" />
+</a>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAbdelhady&theme=github_dark" width="100%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAbdelhady&theme=github_dark" width="100%" />
-| :--: | :--: |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUsername&theme=github_dark" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourUsername&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark" width="100%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=0" width="100%" />
-| :--: | :--: |
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourUsername&theme=github_dark" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YourUsername&theme=github_dark&utcOffset=2" width="100%" />
+    </td>
+  </tr>
+</table>
 
 Thanks for visiting! Feel free to reach out or check out my projects.
