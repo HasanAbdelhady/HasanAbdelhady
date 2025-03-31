@@ -50,11 +50,18 @@ I like building efficient and scalable web solutions using Python and modern web
 
 ### 🔥 **GitHub Status**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanAbdelhady&show_icons=true&hide_border=true&cache_seconds=1500)](https://github.com/HasanAbdelhady)
+## GitHub Overview
 
+| <a href="https://github.com/YourUsername?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=github_dark" width="100%" /></a> | 
+| :--: |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAbdelhady&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/HasanAbdelhady)
+<br/>
 
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUsername&theme=github_dark" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourUsername&theme=github_dark" width="100%" /> |
+| :--: | :--: |
+| **Languages by Repo** | **Languages by Commit** |
+
+<br/>
 ---
 
 Thanks for visiting! Feel free to reach out or check out my projects.
