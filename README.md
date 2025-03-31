@@ -48,49 +48,37 @@ I like building efficient and scalable web solutions using Python and modern web
 
 ---
 
-### 🔥 **GitHub Status**
-
-<style>
-  .github-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 2rem;
-  }
-  .github-flex {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-    width: 100%;
-  }
-  .github-card {
-    flex: 1 1 300px;
-    max-width: 500px;
-  }
-</style>
 
 ### 🔥 **GitHub Status**
 
-<div class="github-container">
+<a href="https://github.com/HasanAbdelhady?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="100%" />
+</a>
 
-  <!-- Profile Details -->
-  <a href="https://github.com/HasanAbdelhady?tab=repositories">
-    <img class="github-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="100%" alt="Profile Details"/>
-  </a>
+<br/>
 
-  <!-- Language Cards -->
-  <div class="github-flex">
-    <img class="github-card" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAbdelhady&theme=github_dark" width="100%" alt="Languages per Repo"/>
-    <img class="github-card" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAbdelhady&theme=github_dark" width="100%" alt="Most Commit Language"/>
-  </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAbdelhady&theme=github_dark" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAbdelhady&theme=github_dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Stats Cards -->
-  <div class="github-flex">
-    <img class="github-card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark&cache_seconds=1800" width="100%" alt="GitHub Stats"/>
-    <img class="github-card" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=2&cache_seconds=1800" width="100%" alt="Productive Time"/>
-  </div>
+<br/>
 
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark&cache_seconds=1800" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=2&cache_seconds=1800" width="100%" />
+    </td>
+  </tr>
+</table>
 
 Thanks for visiting! Feel free to reach out or check out my projects.
