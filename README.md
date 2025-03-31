@@ -53,7 +53,7 @@ I like building efficient and scalable web solutions using Python and modern web
 ## GitHub Overview
 
 <a href="https://github.com/HasanAbdelhady?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAbdelhady&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=github_dark" width="100%" />
 </a>
 
 <br/>
