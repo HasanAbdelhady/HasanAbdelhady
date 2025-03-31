@@ -62,6 +62,11 @@ I like building efficient and scalable web solutions using Python and modern web
 | **Languages by Repo** | **Languages by Commit** |
 
 <br/>
+
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasanAbdelhady&theme=github_dark" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAbdelhady&theme=github_dark&utcOffset=0" width="100%" /> |
+| :--: | :--: |
+| **Stats** | **Commits (UTC +0)** |
+
 ---
 
 Thanks for visiting! Feel free to reach out or check out my projects.
