@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Hasan!
 
-### 🚀 Aspiring Software Engineer | 🎓 AI Engineering Senior Student
+### 🚀An Up-and-coming AI-Driven Software Engineer 
 
-I like building efficient and scalable web solutions using Python and modern web technologies. I've worked on the full-stack of many projects—from backend architecture to creating dynamic front-end experiences. Currently, I'm finishing my AI Engineering degree, and my interest lies at the intersection of AI and web development.
-
-### I'm currently interested in AI Research, so feel free to reach out about possible research collaborations.
----
 
 ### 🌱 **What I'm working on**
+- **Guide Me**: A Study-guidance platform designed to help you study better, faster, and in a more personalized way, based on LLMs and AI Agents
 - **Soilitical**: An AI-based service to help landowners determine which crops to grow for optimal yields and sustainability. Live Demo: [soilitical.netlify.app](https://soilitical.netlify.app/)
 - Developing and maintaining **Carbonless** as their main software engineer. Live On: [carbonless-eg.com](https://carbonless-eg.com/)
 
