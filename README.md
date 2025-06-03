@@ -6,7 +6,7 @@
 ### 🌱 **What I'm working on**
 - **Guide Me**: A Study-guidance platform designed to help you study better, faster, and in a more personalized way, based on LLMs and AI Agents
 - **Soilitical**: An AI-based service to help landowners determine which crops to grow for optimal yields and sustainability. Live Demo: [soilitical.netlify.app](https://soilitical.netlify.app/)
-- Developing and maintaining **Carbonless** as their main software engineer. Live On: [carbonless-eg.com](https://carbonless-eg.com/)
+- Developing and maintaining **Carbonless**. Live On: [carbonless-eg.com](https://carbonless-eg.com/)
 
 ---
 
