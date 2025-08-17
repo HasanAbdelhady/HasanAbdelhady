@@ -22,15 +22,26 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/) 
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://docs.djangoproject.com/en/stable/) 
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)  
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/docs.html)
 
 **Data Science & AI:**  
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/) 
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/doc/) 
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/docs/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/docs/) 
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html) 
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)  
+[![LangChain](https://img.shields.io/badge/-LangChain-2E6F40?style=flat&logo=langchain&logoColor=white)](https://python.langchain.com/docs/)  
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC4D?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/docs)
+
+**Vector DBs & RAG:**  
+[![Pinecone](https://img.shields.io/badge/-Pinecone-0bb6b0?style=flat&logo=pinecone&logoColor=white)](https://docs.pinecone.io/) 
+[![ChromaDB](https://img.shields.io/badge/-ChromaDB-8A2BE2?style=flat)](https://docs.trychroma.com/)
+
+**DevOps & CI/CD:**  
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/) 
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
 
 **More Tools:**  
 [![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/)
