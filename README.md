@@ -93,7 +93,5 @@
   </tr>
 </table>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hasanabdelhady990?theme=dark&font=JetBrains%20Mono)
-
 
 Thanks for visiting! Feel free to reach out or check out my projects.
